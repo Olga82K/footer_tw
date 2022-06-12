@@ -37,16 +37,16 @@ img {
 }
 
 .footer-info {
-  padding: 24px 20px 40px 20px;
+  padding: 20px 20px 40px 20px;
 }
 @media screen and (min-width: 768px) {
   .footer-info {
     display: flex;
     justify-content: space-between;
-    padding: 21px 18px 40px 18px;
+    padding: 0px 18px 40px 18px;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1280px) {
   .footer-info {
     padding: 60px 16px 60px 16px;
   }
@@ -72,7 +72,7 @@ img {
     margin-bottom: 12px;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1280px) {
   .footer-title__part1 {
     min-width: 480px;
     font-size: 30px;
@@ -99,7 +99,7 @@ img {
     margin-bottom: 0px;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1280px) {
   .footer-title__part2 {
     min-width: 480px;
     font-size: 58px;
@@ -110,7 +110,7 @@ img {
   display: flex;
   flex-direction: column;
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1280px) {
   .footer-contacts {
     margin-top: auto;
   }
@@ -130,7 +130,7 @@ img {
     margin-right: 30px;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1280px) {
   .footer-soc-item:not(:last-child) {
     margin-right: 25px;
   }
@@ -166,7 +166,7 @@ img {
     font-size: 14px;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1280px) {
   .footer-tel {
     font-size: 16px;
     letter-spacing: 0.02em;
@@ -181,7 +181,7 @@ img {
 }
 
 .footer-copyright {
-  padding: 16px 90px 20px 90px;
+  padding: 16px 92px 16px 92px;
   font-family: "DM Sans";
   font-weight: 700;
   font-size: 14px;
@@ -192,6 +192,6 @@ img {
 }
 @media screen and (min-width: 768px) {
   .footer-copyright {
-    padding: 8px 90px 8px 90px;
+    padding: 8px 92px 8px 92px;
   }
 }/*# sourceMappingURL=main.css.map */
